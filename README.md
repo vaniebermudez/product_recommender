@@ -1,8 +1,9 @@
 ## Project Directory
 
-### product_recommender/
+```plaintext
+product_recommender/
 ├── data/
-│   ├── pdfs
+│   ├── pdfs/
 │   │   ├── Asset_Master-Brochure_FA_website.pdf
 │   │   ├── AXA-Secure_Future-Brochure.pdf
 │   │   ├── GHA-Brochure.pdf

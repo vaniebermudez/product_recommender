@@ -1,6 +1,6 @@
 ## Project Directory
 
-product_recommender/
+### product_recommender/
 ├── data/
 │   ├── pdfs
 │   │   ├── Asset_Master-Brochure_FA_website.pdf

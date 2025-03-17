@@ -20,3 +20,5 @@ product_recommender/
 │   ├── rag_pipeline.py
 ├── app.py
 ├── app_prev.py
+├── requirements.txt
+├── scrape_data.py
